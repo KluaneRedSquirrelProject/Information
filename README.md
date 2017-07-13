@@ -32,7 +32,7 @@ Hopefully by using each other’s code we will converge on a shared style. Expec
 Attribution, acknowledgement and authorship
 
 Thanks to the way code is placed and edited on GitHub, we should be able to attribute ownership quite easily to the originator, and edits to the editor. 
-At the least, if you use someone else’s code for an analysis that ends up in a publication, they should feature in the acknowledgements. However, if their contribution meant some element of the paper happened that would otherwise not have happened, then we think this should grant the contributor authorship on the paper.
+At the least, if you use someone else’s code for an analysis that ends up in a publication, they should feature in the acknowledgements. However, if their contribution meant some element of the paper happened that would otherwise not have happened, then perhaps this should grant the contributor authorship on the paper.
 Note this does not necessarily mean that using anyone’s code to streamline your own, or get you started in a particular area, grants them authorship rights. Ideally, it should be clear due to a dialogue that lead to the developing of the code for a particular purpose that the coder contributed intellectually to the body of work, and so authorship is appropriate. We think it very unlikely that someone will qualify for authorship if they have not been in email contact during the analysis and write-up stages, as this suggests they were not involved in the project to any great degree.
 If you wish to add your own stipulations about what using your code means when you upload it, feel free to do so, although it would probably be better if the same framework was used by all.
 
